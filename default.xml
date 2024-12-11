@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="github"
-           fetch="https://ghproxy.net/https://github.com"
+           fetch="https://ghp.ci/https://github.com"
            review="review.lineageos.org" />
 
   <remote  name="private"
