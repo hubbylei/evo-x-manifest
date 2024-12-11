@@ -2,13 +2,13 @@
 <manifest>
 
   <remote  name="evo"
-           fetch="https://github.com/Evolution-X"
+           fetch="https://ghproxy.net/https://github.com/Evolution-X"
            sync-c="true"
            sync-j="4"
            revision="refs/heads/vic" />
 
   <remote  name="evo-devices"
-           fetch="https://github.com/Evolution-X-Devices"
+           fetch="https://ghproxy.net/https://github.com/Evolution-X-Devices"
            sync-c="true"
            sync-j="4"
            revision="refs/heads/vic" />
